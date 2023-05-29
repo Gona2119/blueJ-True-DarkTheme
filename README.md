@@ -3,7 +3,7 @@ This fork has a truly Dark Theme with some modifications such as bold-style font
 
  **From Universidad Nacional Del Sur. Bahía Blanca, Buenos Aires, Argentina.** 
 
-Installation guide
+**Installation guide**
 -----------------------------------------------------------------------------------------------
 
 1. Click on ```Code``` at the top-right corner of this repository page and select ```Download ZIP``` from the dropdown menu.
