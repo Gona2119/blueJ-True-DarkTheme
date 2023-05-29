@@ -21,7 +21,7 @@ Screenshots
 -----------------------------------------------------------------------------------------------
 
 ![Screenshot-bluej-default-vs-standard-dark](https://user-images.githubusercontent.com/76199286/153706319-6f8c3253-7390-4a2d-b092-254c2cdf29e4.png)
-Truly Dark Theme:
+      **Truly Dark Theme:**
 ![Screenshot-bluej-default-vs-standard-dark](https://github.com/Gona2119/blueJ-True-DarkTheme/blob/main/TrueDarkTheme-example.png)
 
 -----------------------------------------------------------------------------------------------
