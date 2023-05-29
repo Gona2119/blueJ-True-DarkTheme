@@ -1,6 +1,8 @@
 # bluej-dark-themes
 Dark themes for BlueJ Java IDE.
 
+Universidad Nacional Del Sur. Bahía Blanca, Buenos Aires, Argentina.
+
 Installation guide
 -----------------------------------------------------------------------------------------------
 
@@ -18,6 +20,6 @@ Installation guide
 Screenshots
 -----------------------------------------------------------------------------------------------
 
-![Screenshot-bluej-default-vs-standard-dark](https://user-images.githubusercontent.com/76199286/153706319-6f8c3253-7390-4a2d-b092-254c2cdf29e4.png)
+![Screenshot-bluej-default-vs-standard-dark](https://user-images.githubusercontent.com/76199286/153706319-6f8c3253-7390-4a2d-b092-254c2cdf29e4.png)![Screenshot-bluej-default-vs-standard-dark](https://github.com/Gona2119/blueJ-True-DarkTheme/blob/main/TrueDarkTheme-example.png)
 
 -----------------------------------------------------------------------------------------------
