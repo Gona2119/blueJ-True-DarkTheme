@@ -1,7 +1,7 @@
 # bluej-dark-themes
 This fork has a truly Dark Theme with some modifications such as bold-style fonts with conditionals. Any suggestion will be taken, so feel free to comment :)
 
-``` **From Universidad Nacional Del Sur. Bahía Blanca, Buenos Aires, Argentina.** ```
+ **From Universidad Nacional Del Sur. Bahía Blanca, Buenos Aires, Argentina.** 
 
 Installation guide
 -----------------------------------------------------------------------------------------------
